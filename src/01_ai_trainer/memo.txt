@@ -1,0 +1,10 @@
+01_app_ai_trainer.py
+動画の姿勢推定を行い、フレームを画像として表示する
+
+
+02_app_ai_trainer.py
+動画での腕立て回数カウント機能 完成
+
+
+app_ai_trainer_sample.py
+サンプルプログラム
